@@ -10,7 +10,7 @@ Users can cross out completed task by tapping the task name.
 
 React for displaying UI components
 
-Install
+# Install
 
 Some basic Git commands are:
 
@@ -20,7 +20,7 @@ $ npm install
 Setup
 
 
-Start development
+# Start development
 $ npm start
 
 Languages & tools
@@ -29,7 +29,7 @@ html
 css
 javascript
 
-Code Formatter
+# Code Formatter
 
 Add a .vscode directory
 Create a file settings.json inside .vscode
