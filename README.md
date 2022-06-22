@@ -5,7 +5,7 @@ This is a simple React to do list website.
 
 
 Users can create a list of things to do.
-User can cross out completed task by taping the task name.
+Users can cross out completed task by taping the task name.
 React for displaying UI components
 
 Install
